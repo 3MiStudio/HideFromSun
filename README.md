@@ -1,3 +1,3 @@
 # HideFromSun
 
-This is the first project of 3MiStudio
+This is the first project of 3MiStudio.
